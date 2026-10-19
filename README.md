@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá! Seja bem-vindo ao meu GitHub!<br>Meu nome é Lucas, tenho 23 anos e aqui você vai encontrar diversos projetos que desenvolvi com muito carinho e dedicação. Este espaço é uma vitrine das minhas ideias, aprendizados e experiências na programação.<br><br>Sinta-se à vontade para explorar, se inspirar e, claro, contribuir com sugestões, melhorias ou apenas deixando uma estrela ⭐ nos repositórios que curtir!</p>
+<p align="left">👋 Olá! Seja bem-vindo ao meu GitHub!<br>Meu nome é Lucas, tenho 24 anos e aqui você vai encontrar diversos projetos que desenvolvi com muito carinho e dedicação. Este espaço é uma vitrine das minhas ideias, aprendizados e experiências na programação.<br><br>Sinta-se à vontade para explorar, se inspirar e, claro, contribuir com sugestões, melhorias ou apenas deixando uma estrela ⭐ nos repositórios que curtir!</p>
 
 ###
 
